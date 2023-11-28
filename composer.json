@@ -1,0 +1,8 @@
+{
+    "name": "quintessenza/revolutionslider",
+    "type": "wordpress-plugin",
+    "require": {
+      "php": ">=7.4"
+    }
+  }
+  
